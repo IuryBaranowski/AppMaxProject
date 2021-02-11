@@ -7,9 +7,11 @@
 -> Utilizado o Apache através do Xampp para abrir um servidor HTTP
 
 <h2>Modo de usar</h2>
-<img src="https://i.imgur.com/WQd1e7Z.png" width="400">
+INSTALAÇÃO <br> 1-Crie um banco de dados denominado: konoha <br>
+2- Importe o arquivo konoha.sql para este banco de dados <br>
 
 <b><h3>1- Pagina de login </b></h3><br>
+         <img src="https://i.imgur.com/WQd1e7Z.png" width="400">
          Entrar fazendo Login como Hokage dará acesso total as funções do sistema <br>
          Usuario: Naruto <br>
          Senha: 1234 <br>
