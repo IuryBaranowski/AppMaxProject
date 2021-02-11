@@ -1,0 +1,16 @@
+{
+    "name": "barros/projetoappmax",
+    "description": "Projeto AppMax",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Barros",
+            "email": "iury.baranowski04@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap": "dev-main"
+    }
+}
